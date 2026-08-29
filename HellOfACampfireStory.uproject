@@ -235,10 +235,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "WindowsMoviePlayer",
-			"Enabled": false
-		},
-		{
 			"Name": "WmfMedia",
 			"Enabled": false
 		},
@@ -269,6 +265,10 @@
 		{
 			"Name": "ChaosUserDataPT",
 			"Enabled": false
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
